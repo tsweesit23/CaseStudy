@@ -40,3 +40,11 @@ calculated.
 
 
 * What did you find in the data? (please include figures or tables in the report)
+
+
+
+The 5-cluster segmentation provides broader, distinct customer groupings. Each cluster reflects a significant behavioral trend, such as frequent domestic travelers, long-distance international vacationers, package deal users, mobile-first users, or family-oriented travelers. This granularity helps businesses target these broad categories with tailored offerings, such as discounted bundles for package users or family-friendly options for large group travelers.
+
+
+
+The 10-cluster segmentation uncovers more granular sub-groups, such as niche travelers (e.g., solo adventurers, group package enthusiasts, or short-term bookers). However, overlaps between some clusters suggest that the data might be slightly noisy or certain distinctions are not practically actionable. For example, a cluster with high family travel preferences might be split into families with infants versus families with teens.
